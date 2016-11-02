@@ -3,6 +3,8 @@
 #test test
 session_start();
 $msg = "";
+$msg = "";
+$msg = "";
 if($_POST) {
  	$login = $_POST['login'];
 	$pw = $_POST['pswd'];
