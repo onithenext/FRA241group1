@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 -Supat Limsamutchaikul (back-end)
 -Asadayut Wongpakdee (front-end)
 -Thirawat Chuthong (front-end) 
+=======
+-Supat Limsamutchaikul (back-end)
+>>>>>>> origin/master
