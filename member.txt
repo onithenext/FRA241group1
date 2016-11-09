@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 -Supat Limsamutchaikul (back-end)
--Poorin Rangpong (back-end)
+<<<<<<< HEAD
 -Asadayut Wongpakdee (front-end) 
+=======
+-Asadayut Wongpakdee (front-end)
+-Thirawat Chuthong (front-end) 
+=======
+-Supat Limsamutchaikul (back-end)
+>>>>>>> origin/master
+tanachot supawasoot by joe
+>>>>>>> origin/master
