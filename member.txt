@@ -7,6 +7,7 @@
 -Thirawat Chuthong (front-end) 
 =======
 -Supat Limsamutchaikul (back-end)
+-Poorin Rangpong (back-end)
 >>>>>>> origin/master
 tanachot supawasoot by joe
 >>>>>>> origin/master
